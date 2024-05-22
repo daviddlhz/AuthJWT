@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{913058CE-665B-4B6F-9D32-E2C0DEAB0A5E}|Infrastructure\\Infrastructure.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\infrastructure\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{913058CE-665B-4B6F-9D32-E2C0DEAB0A5E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6020D838-7C4B-4303-8AB3-742A58666727}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{913058CE-665B-4B6F-9D32-E2C0DEAB0A5E}|Infrastructure\\Infrastructure.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -41,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76EBA6AA-629A-47A2-8892-1BD35D84F5D8}|Application\\Application.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\application\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76EBA6AA-629A-47A2-8892-1BD35D84F5D8}|Application\\Application.csproj|solutionrelative:application\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EBA6AA-629A-47A2-8892-1BD35D84F5D8}|Application\\Application.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EBA6AA-629A-47A2-8892-1BD35D84F5D8}|Application\\Application.csproj|solutionrelative:application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76EBA6AA-629A-47A2-8892-1BD35D84F5D8}|Application\\Application.csproj|c:\\users\\daviddlhz\\source\\repos\\authjwt\\application\\dtos\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,59 +78,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T05:27:57.93Z",
+              "DocumentIndex": 2,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
+              "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI\\WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-22T16:59:37.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAswBsAAABGAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T05:27:38.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-22T05:11:23.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Infrastructure\\Repo\\UserRepo.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repo\\UserRepo.cs",
               "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Infrastructure\\Repo\\UserRepo.cs",
               "RelativeToolTip": "Infrastructure\\Repo\\UserRepo.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAgwE0AAABDAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwE0AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T04:41:28.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection\\ServiceContainer.cs",
@@ -146,18 +138,17 @@
               "RelativeToolTip": "Infrastructure\\DependencyInjection\\ServiceContainer.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwCsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T04:13:14.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T04:13:14.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T04:19:00.061Z",
               "EditorCaption": ""
@@ -172,25 +163,11 @@
               "RelativeToolTip": "WebAPI\\WebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-20T20:51:21.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T20:51:21.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-22T04:07:34.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "IUser.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Application\\Contracts\\IUser.cs",
               "RelativeDocumentMoniker": "Application\\Contracts\\IUser.cs",
@@ -198,25 +175,11 @@
               "RelativeToolTip": "Application\\Contracts\\IUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T04:35:01.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T04:35:01.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginResponse.cs",
-              "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Application\\DTOs\\LoginResponse.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\LoginResponse.cs",
-              "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Application\\DTOs\\LoginResponse.cs",
-              "RelativeToolTip": "Application\\DTOs\\LoginResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T04:39:03.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "RegistrationResponse.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Application\\DTOs\\RegistrationResponse.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\RegistrationResponse.cs",
@@ -224,25 +187,23 @@
               "RelativeToolTip": "Application\\DTOs\\RegistrationResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T04:36:02.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T04:36:02.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Application",
+              "DocumentIndex": 10,
+              "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
               "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Application\\Application.csproj",
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-22T04:34:31.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T04:34:31.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Application\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\LoginDTO.cs",
@@ -250,12 +211,11 @@
               "RelativeToolTip": "Application\\DTOs\\LoginDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T04:33:49.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T04:33:49.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "RegisterUserDto.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Application\\DTOs\\RegisterUserDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\RegisterUserDto.cs",
@@ -263,25 +223,23 @@
               "RelativeToolTip": "Application\\DTOs\\RegisterUserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T04:24:29.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T04:24:29.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Infrastructure",
+              "DocumentIndex": 7,
+              "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
               "ToolTip": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Infrastructure\\Infrastructure.csproj",
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-22T04:11:28.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T04:11:28.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Domain\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
@@ -289,12 +247,11 @@
               "RelativeToolTip": "Domain\\Entities\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T03:54:13.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T03:54:13.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\DavidDlhz\\source\\repos\\AuthJWT\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
@@ -302,8 +259,7 @@
               "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T03:55:35.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T03:55:35.662Z"
             }
           ]
         }

@@ -19,6 +19,10 @@ namespace WebAPI.Controllers
         public async Task<ActionResult<LoginResponse>> LogUserIn(LoginDTO loginDTO)
         {
             var result = await _user.LoginUserAsync(loginDTO);
+            if (!result.Flag)
+            {
+                return Unauthorized(result);
+            }
             return Ok(result);
         }
 
